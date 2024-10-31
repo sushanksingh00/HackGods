@@ -48,3 +48,7 @@ def login_required(f):
         return f(*args, **kwargs)
 
     return decorated_function
+<<<<<<< HEAD
+=======
+
+>>>>>>> 18460d5 (commit again)
